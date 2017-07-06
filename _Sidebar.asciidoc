@@ -1,0 +1,12 @@
+* https://github.com/huntallcott/lab/wiki/Overview[Overview]
+* https://github.com/huntallcott/lab/wiki/Software-Setup[Software Setup]
+* https://github.com/huntallcott/lab/wiki/Folder-Organization[Folder Organization]
+* Project Management
+ - https://github.com/huntallcott/lab/wiki/GitHub-Issues[GitHub Issues]
+ - https://github.com/huntallcott/lab/wiki/GitHub-Commits[GitHub Commits]
+ - https://github.com/huntallcott/lab/wiki/Time-Tracking[Time Tracking]
+* https://github.com/huntallcott/lab/wiki/Coding-Principles[Coding Principles]
+* https://github.com/huntallcott/lab/wiki/Production-Tasks[Production Tasks]
+* Style Guides
+  - https://github.com/huntallcott/lab/wiki/Paper-Drafts[Paper Drafts]
+  - https://github.com/huntallcott/lab/wiki/Stata-Code[Stata Code]
